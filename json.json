@@ -1,6 +1,1 @@
-[{"id":"1","name":"cachoro que","price":"633","ratings":"43","category":"1","imagePath":"assets/images/breakfast.jpeg","discount":"99"},
-{"id":"2","name":"cachoro que","price":"633","ratings":"43","category":"1","imagePath":"assets/images/breakfast.jpeg","discount":"99"}
-{"id":"3","name":"cachoro que","price":"633","ratings":"43","category":"1","imagePath":"assets/images/breakfast.jpeg","discount":"99"}
-{"id":"4","name":"cachoro que","price":"633","ratings":"43","category":"1","imagePath":"assets/images/breakfast.jpeg","discount":"99"}
-{"id":"4","name":"cachoro que","price":"633","ratings":"43","category":"1","imagePath":"assets/images/breakfast.jpeg","discount":"99"}
-{"id":"6","name":"cachoro que","price":"633","ratings":"43","category":"1","imagePath":"assets/images/breakfast.jpeg","discount":"99"}]
+[{"id":"1","name":"cachoro que","price":"633","ratings":"43","category":"1","imagePath":"assets\/images\/breakfast.jpeg","discount":"99"},{"id":"2","name":"cachoro que","price":"633","ratings":"43","category":"1","imagePath":"assets\/images\/breakfast.jpeg","discount":"99"},{"id":"3","name":"cachoro que","price":"633","ratings":"43","category":"1","imagePath":"assets\/images\/breakfast.jpeg","discount":"99"},{"id":"4","name":"cachoro que","price":"633","ratings":"43","category":"1","imagePath":"assets\/images\/breakfast.jpeg","discount":"99"}]
